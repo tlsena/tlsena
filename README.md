@@ -1,7 +1,6 @@
 ## Bem-Vindo! Eu me chamo Thiago 🤙
 
 ![tlsena GitHub stats](https://github-readme-stats.vercel.app/api?username=tlsena&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlsena&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
@@ -14,5 +13,4 @@
   <img align="center" alt="SQL Sever" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </div><br>
 
-##
 
